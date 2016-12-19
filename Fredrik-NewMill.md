@@ -3,7 +3,7 @@
 ### Places to visit
 
 
-### Palces to eat
+### Places to eat
  - Goggos
  - Rhodos
  - Terassen 
